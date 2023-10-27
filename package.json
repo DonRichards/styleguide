@@ -10,7 +10,7 @@
         "octicons": "3.1.0"
     },
     "devDependencies": {
-        "lodash": "3.9.3",
+        "lodash": "4.17.21",
         "gulp": "^3.8.11",
         "gulp-rename": "^1.2.2",
         "gulp-less": "3.0.2",
